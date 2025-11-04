@@ -1,2 +1,9 @@
 .env
 Training/01.data/Local
+Training/01.data/Remote/Track*/
+Training/01.data/Remote/*.mid
+Training/01.data/Remote/*.midi
+Training/01.data/Remote/*.wav
+Training/01.data/Remote/*.flac
+Scripts/aws/aws.env
+*.pem

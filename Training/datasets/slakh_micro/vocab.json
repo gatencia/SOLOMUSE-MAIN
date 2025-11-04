@@ -1,0 +1,30 @@
+{
+  "chords": [
+    "N",
+    "C:maj",
+    "C:min",
+    "C#:maj",
+    "C#:min",
+    "D:maj",
+    "D:min",
+    "D#:maj",
+    "D#:min",
+    "E:maj",
+    "E:min",
+    "F:maj",
+    "F:min",
+    "F#:maj",
+    "F#:min",
+    "G:maj",
+    "G:min",
+    "G#:maj",
+    "G#:min",
+    "A:maj",
+    "A:min",
+    "A#:maj",
+    "A#:min",
+    "B:maj",
+    "B:min"
+  ],
+  "pitch_pad": 0
+}
