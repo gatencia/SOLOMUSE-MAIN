@@ -6,6 +6,19 @@ Train transformer models to generate musical solos conditioned on chord progress
 
 This pipeline converts MIDI files into tokenized sequences representing chords and melodies, then trains a GPT-2 model to generate new solos that follow given chord progressions.
 
+## Dataset
+
+### Quick Start with Examples
+The `01.data/Remote/` directory contains a few example MIDI files to get started quickly.
+
+### Full Slakh2100 Dataset
+For full training, download the complete Slakh2100 dataset:
+- **Download**: [Slakh2100 on Zenodo](https://zenodo.org/records/4599666) (~105GB)
+- **Extract to**: `01.data/Remote/slakh2100/`
+- **Contents**: 2100 multi-track songs with separated MIDI files
+
+See `01.data/dataset.md` for detailed information about the Slakh2100 dataset.
+
 ## Directory Structure
 
 ```
